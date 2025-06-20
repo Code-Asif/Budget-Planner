@@ -1,0 +1,2 @@
+C:/Users/safet/OneDrive/Desktop/Practice Tech/Mini_Projects/Expense_Tracker2/budget_planner/android/app/.cxx/RelWithDebInfo/6l312sa3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/safet/OneDrive/Desktop/Practice Tech/Mini_Projects/Expense_Tracker2/budget_planner/android/app/.cxx/RelWithDebInfo/6l312sa3/x86_64/CMakeFiles/rebuild_cache.dir

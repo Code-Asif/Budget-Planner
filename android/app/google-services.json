@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731779843746",
+    "project_id": "budgetplanner-bce2b",
+    "storage_bucket": "budgetplanner-bce2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731779843746:android:a262a20cad0f0905d479fb",
+        "android_client_info": {
+          "package_name": "com.example.budget_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVO-BS3Dum059dI2BVYbtG6HAIdOZcgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
